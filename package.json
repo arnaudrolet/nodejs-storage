@@ -82,7 +82,7 @@
     "@google-cloud/nodejs-repo-tools": "^2.1.0",
     "@google-cloud/pubsub": "*",
     "codecov": "^3.0.0",
-    "eslint": "^4.7.1",
+    "eslint": "^4.12.0",
     "eslint-config-prettier": "^2.5.0",
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-prettier": "^2.3.1",
